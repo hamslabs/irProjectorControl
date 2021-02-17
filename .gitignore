@@ -1,0 +1,10 @@
+# files from the ESP-IDF build
+build/
+sdkconfig.old
+
+# files from VSCode or VSCodium
+.vscode/
+
+# file from vim
+[._]*.swp
+
